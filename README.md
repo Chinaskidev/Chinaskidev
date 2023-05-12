@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Charlesdev
-- 🌱 I’m currently learning New technology
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on any project where I could develop  my programming skills.
 - 📫 How to reach me: You can send me an email chinaskicharles0@gmail.com or twitter: @cryptosoup_sv
 <!---

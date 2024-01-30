@@ -1,6 +1,7 @@
 <h2>Sobre mí</h2>
 <br>
-<p style="font-size:20px;">Soy estudiante de Ciencia de Datos en Soy Henry, actualmente en proceso de culminación de mi carrera. Me apasiona el campo del Machine Learning, Ingeniería y Analisis de Datos, y estoy buscando oportunidades profesionales para aplicar mis habilidades y conocimientos en entornos desafiantes.</p>
+<p style="font-size:20px;">Data Science, con Background en Servicio al Cliente. Tengo experiencia práctica en proyectos diversos utilizando Python,SQL,Google Cloud, entre otras tecnologias del sector, realizando tareas de ETL, Ingeniería y Análisis de Datos.<br>
+Con conocimiento en Machine Learning e interés por interiorizarme en IA y Deep Learning. Soy una persona muy interesada en el tema se que se puede aprender más y busco constantemente aportar conocimiento y valor a los equipos de trabajo.</p>
 
 <h2>Habilidades Técnicas</h2>
 
@@ -19,5 +20,7 @@
 <a href='https://cloud.google.com/' target="_blank"><img alt='Google Cloud' src='https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=Google%20Cloud&logoColor=white&labelColor=4285F4&color=white&logoWidth=60'/></a>
 <br>
 <h2>Contáctame</h2>
+
+<p style="font-size:20px;">Mi objetivo es seguir creciendo profesionalmente y desarrollar soluciones que generen un impacto positivo. Si estás interesado, estaré encantado de conectarme contigo.</p>
 <a href='https://www.linkedin.com/in/juancarlosvz/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white&labelColor=0A66C2&color=white&logoWidth=60'/></a>
 

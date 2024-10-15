@@ -1,6 +1,6 @@
 <h2>Sobre mí</h2>
 <br>
-<p style="font-size:20px;">Data Science, con Background en Servicio al Cliente. Tengo experiencia práctica en proyectos diversos utilizando Python,SQL,Google Cloud, entre otras tecnologias del sector, realizando tareas de ETL, Ingeniería y Análisis de Datos.<br>
+<p style="font-size:20px;">Tengo experiencia práctica en proyectos diversos utilizando Python,SQL,Google Cloud, entre otras tecnologias del sector, realizando tareas de ETL, Ingeniería y Análisis de Datos.<br>
 Con conocimiento en Machine Learning e interés por interiorizarme en IA y Deep Learning. Soy una persona muy interesada en el tema se que se puede aprender más y busco constantemente aportar conocimiento y valor a los equipos de trabajo.</p>
 
 <h2>Habilidades Técnicas</h2>

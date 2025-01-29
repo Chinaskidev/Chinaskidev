@@ -1,7 +1,6 @@
-<h2>Sobre mí</h2>
+<h2>Hola Soy Juan Carlos</h2>
 <br>
-<p style="font-size:20px;">Tengo experiencia práctica en proyectos diversos utilizando Python,SQL,Google Cloud, entre otras tecnologias del sector, realizando tareas de ETL, Ingeniería y Análisis de Datos.<br>
-Con conocimiento en Machine Learning e interés por interiorizarme en IA y Deep Learning. Soy una persona muy interesada en el tema se que se puede aprender más y busco constantemente aportar conocimiento y valor a los equipos de trabajo.</p>
+<p style="font-size:20px;">Si compila esta bien, si arranca es perfecto.</p>
 
 <h2>Habilidades Técnicas</h2>
 
@@ -20,6 +19,8 @@ Con conocimiento en Machine Learning e interés por interiorizarme en IA y Deep 
 <br>
 <h2>Contáctame</h2>
 
-<p style="font-size:20px;">Mi objetivo es seguir creciendo profesionalmente y desarrollar soluciones que generen un impacto positivo. Si estás interesado, estaré encantado de conectarme contigo.</p>
-<a href='https://www.linkedin.com/in/juancarlosvz/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white&labelColor=0A66C2&color=white&logoWidth=75'/></a>
+<p style="font-size:20px;"></p>
+<a href='mailto:juangreen17@gmail.com' target="_blank">
+  <img alt='Gmail' src='https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&labelColor=D14836'/>
+</a>
 

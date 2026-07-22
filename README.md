@@ -5,4 +5,5 @@
 <h2>Habilidades Técnicas</h2>
 
 <h1>ME ESTOY MUDANDO A CODEBERG&FORGEJO</h1>
-<h1>I'M MOVING TO CODEBERG&FORGEJO</h1>
+<h1>I'M MOVING TO FORGEJO&CODEBERG</h1>
+https://codeberg.org/jcarlov
